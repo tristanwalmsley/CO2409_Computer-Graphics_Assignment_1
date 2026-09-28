@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\GraphicsAssignment.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ColourShiftNormalMapping_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ColourShift_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\CubeMap_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\CubeMap_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\DepthOnly_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\LightModel_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\BasicTransform_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\NormalMapping_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\NormalMapping_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ParallaxMapping_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ParallaxMapping_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ShadowMapping_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\trist\Desktop\GRAPHICS ASSIGNMENT\GraphicsAssignment\ShadowMapping_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
